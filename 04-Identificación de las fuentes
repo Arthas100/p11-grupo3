@@ -1,0 +1,5 @@
+Uno de las bases de datos a utilizar es RATING donde se tiene datos fundamentales como el ID del usuario (userId), el ID de la película (movieId), la clasificación según la demanda de la misma (rating) y el tiempo de duración (timestamp).
+El objetivo de análisis del mismo mediante el tipo de película que es más vista y con esta información poder recomendar al usuario e incrementar el consumo de la aplicación.
+Y como decide el sistema que recomendar, para ello utiliza información de la data MOVIES como los genero más visto (genres),  Además de las recomendaciones de temas relacionados a las películas vistas y como las etiquetas o el tema del mismo (TAGS).
+Por ejemplo una persona que vea de manera consecutiva comedia romántica, además de este tema, puede recomendar películas de similar índole como del mismo director o tema similar.
+Otras recomendaciones serian películas de que sean populares o de estreno en su localidad o país, esto incluye nuevas series o publicidad de que pueda ser de interés del cliente.
